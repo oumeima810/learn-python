@@ -1,0 +1,1 @@
+The git init command initializes a new Git repo (local repo). It's the first command you run when you have a new project and want to start tracking changes. The history of your project starts here   oraleexe>product?11.02...>bin>.txt

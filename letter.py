@@ -30,3 +30,4 @@ a=int (input('inter the a which is  the length of a short sid '))
 b=int (input('inter the b which is  the length of another short sid '))
 c=math.sqrt(a**2+b**2)
 print (c)
+
